@@ -204,10 +204,6 @@ public:
     }
 };
 
-作者：liweiwei1419
-链接：https://leetcode-cn.com/problems/design-circular-deque/solution/shu-zu-shi-xian-de-xun-huan-shuang-duan-dui-lie-by/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 5.接雨水
